@@ -1,0 +1,6 @@
+{
+  "name": "ABX Digital Studio",
+  "description": "Premium digital marketing agency design system and web application for ABX Digital Studio, featuring high-performance campaigns, SEO, web development, and creative advertising.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
